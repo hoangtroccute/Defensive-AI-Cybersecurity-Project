@@ -5,7 +5,7 @@ Security of LLM Applications
 
 ## Weekly Progress Summary
 ### Week 1
-Select project topic, define scope, assign team roles, create repository, and draft initial charter.
+Select project topic, define scope, create repository, and draft initial charter.
 
 ### Week 2
 Develop asset inventory, threat model, and initial system diagram/table.
