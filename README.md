@@ -18,3 +18,19 @@ Complete final analysis, residual risk discussion, report, and presentation.
 
 ## Expected Final Outcome
 The final project will provide a practical defensive analysis of how an organization can reduce prompt injection risk in an internal RAG chatbot through realistic controls, validation, and structured security recommendations.
+
+Timeline
+
+### Week 1
+- Selected project topic
+- Defined project scope
+- Created repository
+- Drafted project charter
+
+### Week 2
+- Documented the internal RAG chatbot workflow
+- Identified attack surfaces and key threats
+- Expanded asset inventory
+- Created baseline test cases
+- Built initial risk matrix
+- Listed planned defensive controls
