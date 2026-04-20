@@ -34,3 +34,10 @@ Timeline
 - Created baseline test cases
 - Built initial risk matrix
 - Listed planned defensive controls
+
+### Week 3
+- Selected defensive controls for evaluation
+- Documented filtering, retrieval, and validation logic
+- Compared current results against baseline
+- Updated the risk register
+- Drafted final report outline
