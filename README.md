@@ -41,3 +41,11 @@ Timeline
 - Compared current results against baseline
 - Updated the risk register
 - Drafted final report outline
+
+### Week 4
+- Completed final report draft
+- Finalized validation summary
+- Compiled evidence appendix
+- Updated recommendations and residual risk discussion
+- Prepared final slide deck
+- Organized final repository for submission
